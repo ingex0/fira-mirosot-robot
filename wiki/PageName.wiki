@@ -1,5 +1,5 @@
+#summary 简述项目实施步骤。
 #labels Phase-Design,Phase-Requirements
-#简述项目实施步骤。
 
 = Introduction =
 
