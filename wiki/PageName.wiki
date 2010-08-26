@@ -1,7 +1,5 @@
-#summary One-sentence summary of this page.
 #labels Phase-Design,Phase-Requirements
-
-简述项目实施步骤。
+#简述项目实施步骤。
 
 = Introduction =
 
